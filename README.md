@@ -21,7 +21,7 @@
 
 ## About
 
-Lab developed for teaching about a fuzzing tool called AFL. Using AFL to find interesting crashing inputs of programs, and try out some attacker techniques related to heap vulnerabilities. To be precise I taught on AFL++ a more recent forked version.
+Lab to wrap up a section on buffer and integer overflows. This lab contained a series of 7 shorter problems that form an obstacle course of challenges related to buffer and integer overflow. The 7 problems are embedded into a single binary.
 
 ---
 
